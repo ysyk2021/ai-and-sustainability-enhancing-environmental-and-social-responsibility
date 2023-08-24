@@ -1,5 +1,3 @@
-Applications of AI in Environmental Sustainability
-==================================================
 
 Artificial intelligence (AI) has the potential to support environmental sustainability efforts by providing powerful tools for addressing complex environmental challenges. From air and water quality monitoring to renewable energy optimization, AI can help create more efficient and effective solutions for enhancing environmental responsibility. In this chapter, we will explore some of the key applications of AI in environmental sustainability.
 

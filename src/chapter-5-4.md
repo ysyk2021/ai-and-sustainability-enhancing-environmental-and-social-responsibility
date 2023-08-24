@@ -1,5 +1,3 @@
-Poverty Reduction and Economic Development
-=======================================================================================
 
 While AI is often associated with environmental sustainability, it can also play a crucial role in promoting social sustainability. In this chapter, we explore how AI is being utilized to promote poverty reduction and economic development, highlighting some of the most promising applications.
 

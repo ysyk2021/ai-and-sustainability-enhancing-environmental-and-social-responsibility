@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and their Applications in Sustainability
-====================================================================================================================
 
 Artificial intelligence (AI) is a broad field that encompasses a range of technologies and techniques. These technologies can be classified into different types of AI, each with its own strengths and weaknesses. In this chapter, we will explore the different types of AI and their applications in sustainability.
 

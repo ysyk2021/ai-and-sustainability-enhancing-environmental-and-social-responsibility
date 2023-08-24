@@ -1,5 +1,3 @@
-Disaster Response and Relief
-=========================================================================
 
 Disasters, whether natural or man-made, can have a significant impact on the well-being of individuals, communities, and entire regions. In recent years, the use of AI has shown promise in enhancing disaster response and relief efforts, contributing to the social sustainability of affected areas.
 

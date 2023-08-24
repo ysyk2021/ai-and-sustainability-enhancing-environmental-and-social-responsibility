@@ -1,5 +1,3 @@
-Air and Water Quality Monitoring
-====================================================================================
 
 Maintaining clean air and water is essential for human health and the environment. Unfortunately, pollution remains a major challenge in many parts of the world. The use of AI in environmental sustainability has immense potential to support air and water quality monitoring efforts. In this chapter, we will explore how AI can be used to monitor and improve air and water quality.
 

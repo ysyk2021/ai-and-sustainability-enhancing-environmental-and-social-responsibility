@@ -1,5 +1,3 @@
-Human Rights and Social Justice
-============================================================================
 
 Artificial intelligence (AI) has the potential to support social sustainability efforts by providing powerful tools for addressing complex social challenges. From healthcare access and equity to poverty reduction and economic development, AI can help create more efficient and effective solutions for enhancing social responsibility. In this chapter, we will explore some of the key applications of AI in social sustainability, specifically in the areas of human rights and social justice.
 

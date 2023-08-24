@@ -1,5 +1,3 @@
-Overview of AI Applications in Environmental Sustainability
-===============================================================================================================
 
 The field of AI has immense potential to contribute to environmental sustainability efforts. In this chapter, we will provide an overview of some of the key applications of AI in environmental sustainability, including:
 

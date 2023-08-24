@@ -1,5 +1,3 @@
-Smart Cities and Green Buildings
-====================================================================================
 
 As our planet faces increasing environmental challenges, the use of AI has shown potential for enhancing sustainability efforts. Two areas where AI is being increasingly used to promote environmental sustainability are in Smart Cities and Green Buildings.
 

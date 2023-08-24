@@ -1,5 +1,3 @@
-Applications of AI in Social Sustainability
-===========================================
 
 AI has the potential to support social sustainability efforts by providing tools for enhancing healthcare access and equity, improving education and training, promoting poverty reduction and economic development, enabling effective disaster response and relief, and enhancing human rights and social justice. In this chapter, we will provide an overview of the various applications of AI in social sustainability.
 

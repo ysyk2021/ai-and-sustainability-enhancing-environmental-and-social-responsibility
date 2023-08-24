@@ -1,5 +1,3 @@
-Ethical Considerations
-======================
 
 As with any transformative technology, there are ethical considerations associated with the use of AI in sustainability. In this chapter, we explore some of the key ethical issues related to AI in sustainability and outline best practices for ensuring ethical and responsible AI use. We also discuss future directions and challenges related to ethical AI in sustainability.
 

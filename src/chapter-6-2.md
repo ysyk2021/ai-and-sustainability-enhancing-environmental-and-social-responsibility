@@ -1,5 +1,3 @@
-Best Practices for Ensuring Ethical and Responsible AI in Sustainability
-================================================================================================
 
 As the use of AI technology continues to grow, it is critical to ensure that its development and deployment are guided by ethical considerations. This is especially true in the context of sustainability, where the long-term impact on the environment and society must be carefully considered. In this chapter, we will explore best practices for ensuring ethical and responsible AI in sustainability.
 

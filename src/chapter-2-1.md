@@ -1,5 +1,3 @@
-Overview of Sustainability and its Importance
-===========================================================================
 
 Sustainability is a critical concept that has gained increasing attention in recent years. It refers to the ability of systems, such as economies, societies, and ecosystems, to maintain themselves over time without degrading natural resources or causing harm to people. In this chapter, we will provide an overview of sustainability and why it is so important.
 

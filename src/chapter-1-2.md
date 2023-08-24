@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and its Applications in Sustainability
-========================================================================================
 
 Artificial intelligence (AI) is a rapidly evolving field that has the potential to transform virtually every aspect of our lives, including sustainability. AI refers to the ability of machines to learn from data, identify patterns, and make decisions based on that data. In recent years, there has been growing interest in the use of AI to address environmental and social challenges.
 

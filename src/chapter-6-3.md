@@ -1,5 +1,3 @@
-Future Directions and Challenges
-========================================================
 
 As AI continues to play an increasingly important role in promoting sustainability, it is essential to consider the ethical implications of its applications. In this chapter, we explore some of the key ethical considerations related to AI and sustainability and discuss future directions and challenges.
 

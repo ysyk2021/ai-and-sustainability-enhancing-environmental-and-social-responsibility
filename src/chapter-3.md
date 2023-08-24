@@ -1,5 +1,3 @@
-Artificial Intelligence in Sustainability
-=========================================
 
 Artificial intelligence (AI) has the potential to revolutionize sustainability efforts by providing powerful tools for addressing complex environmental and social challenges. In this chapter, we will explore the different types of AI and their applications in sustainability, as well as the advantages and limitations of using AI in sustainability.
 

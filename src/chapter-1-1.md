@@ -1,5 +1,3 @@
-The Need for Environmental and Social Responsibility
-==================================================================
 
 In recent years, there has been a growing recognition of the critical need for environmental and social responsibility. Climate change, pollution, biodiversity loss, and resource depletion threaten the well-being of both current and future generations. At the same time, social inequality, discrimination, and exclusion limit opportunities and access to resources for many individuals and communities.
 

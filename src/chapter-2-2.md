@@ -1,5 +1,3 @@
-Traditional Approaches to Sustainability
-======================================================================
 
 Sustainability has become an increasingly important concept in recent years, but traditional approaches to sustainability have been around for decades. In this chapter, we will explore some of the key traditional approaches to sustainability.
 

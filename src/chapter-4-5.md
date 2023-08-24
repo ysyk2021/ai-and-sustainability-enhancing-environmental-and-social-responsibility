@@ -1,5 +1,3 @@
-Sustainable Agriculture and Food Systems
-============================================================================================
 
 As the world's population continues to grow, sustainable agriculture and food systems are becoming increasingly important. Fortunately, the use of AI is showing great potential in this area, offering solutions to improve efficiency, reduce waste, and enhance sustainability.
 

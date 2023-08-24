@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Sustainability
-==========================================================================================
 
 In recent years, there has been a growing interest in the use of artificial intelligence (AI) to address sustainability challenges. From renewable energy optimization to disaster response and relief, AI has numerous applications in sustainability. In this chapter, we will explore some case studies that demonstrate the use of AI in sustainability.
 

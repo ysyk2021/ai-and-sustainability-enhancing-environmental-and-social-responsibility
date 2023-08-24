@@ -1,5 +1,3 @@
-Ethical Issues Associated with the Use of AI in Sustainability
-======================================================================================
 
 As the use of AI in sustainability continues to grow, it is important to recognize and address the ethical issues that may arise. In this chapter, we will explore some of the key ethical issues associated with the use of AI in sustainability.
 

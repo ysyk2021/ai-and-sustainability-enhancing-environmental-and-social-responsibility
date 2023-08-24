@@ -1,5 +1,3 @@
-Healthcare Access and Equity
-=========================================================================
 
 Access to healthcare is a critical component of social sustainability, and AI has the potential to improve healthcare access and equity. In this chapter, we will explore how AI can be used to support healthcare access and equity.
 
@@ -29,5 +27,4 @@ AI can also be used to analyze medical imaging data, such as X-rays and MRIs, to
 Finally, AI can be used to develop personalized medicine approaches that take into account an individual's unique genetic makeup, lifestyle, and medical history. This can enable more targeted and effective treatments, improving health outcomes and reducing healthcare costs.
 
 In conclusion, AI has enormous potential to support healthcare access and equity by enabling telemedicine, predictive analytics, electronic health records, medical imaging analysis, and personalized medicine. By leveraging the power of AI, we can create a more equitable and accessible healthcare system for all.
-
 

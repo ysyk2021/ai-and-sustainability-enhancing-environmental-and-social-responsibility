@@ -1,5 +1,3 @@
-Education and Training
-===================================================================
 
 AI has the potential to support social sustainability efforts by providing tools for improving education and training. In this chapter, we will explore how AI can be used to support social sustainability through education and training.
 

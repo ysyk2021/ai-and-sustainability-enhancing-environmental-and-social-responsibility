@@ -1,5 +1,3 @@
-Climate Change Mitigation and Adaptation
-============================================================================================
 
 One of the most critical challenges facing the world today is climate change. The use of AI in environmental sustainability has immense potential to support climate change mitigation and adaptation efforts. In this chapter, we will explore how AI can be used to address climate change through both mitigation and adaptation strategies.
 
