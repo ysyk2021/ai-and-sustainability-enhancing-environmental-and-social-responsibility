@@ -6,3 +6,7 @@ The book "AI and Sustainability: Enhancing Environmental and Social Responsibili
 Overall, this book provides a comprehensive overview of the ways in which AI can be used to enhance environmental and social responsibility, as well as economic sustainability. By examining best practices and case studies from around the world, we can identify opportunities for using AI to create more efficient and effective solutions for addressing complex sustainability challenges.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
