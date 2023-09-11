@@ -1,5 +1,4 @@
-Chapter: Traditional Approaches to Sustainability
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore traditional approaches to sustainability and discuss their contributions in enhancing environmental and social responsibility. These approaches have laid the foundation for our understanding of sustainability and have played a crucial role in driving positive change.
 

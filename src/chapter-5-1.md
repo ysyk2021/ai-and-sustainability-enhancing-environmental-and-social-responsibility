@@ -1,5 +1,4 @@
-Chapter: Overview of AI Applications in Social Sustainability
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the diverse applications of AI in promoting social sustainability. AI technologies have the potential to address social challenges, foster inclusivity, and empower communities, thereby enhancing overall social responsibility and sustainability.
 

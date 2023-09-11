@@ -1,5 +1,4 @@
-Chapter: Education and Training
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the significance of education and training in enhancing environmental and social responsibility through AI and sustainability. Education is a powerful tool that empowers individuals, organizations, and societies to understand and address the complex challenges related to sustainability.
 

@@ -1,5 +1,4 @@
-Chapter: Best Practices for Ensuring Ethical and Responsible AI in Sustainability
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore best practices for ensuring ethical and responsible AI in sustainability. As organizations increasingly leverage AI technologies to address sustainability challenges, it is crucial to adopt practices that prioritize ethical considerations and promote social responsibility.
 

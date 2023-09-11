@@ -1,5 +1,4 @@
-Chapter: Types of Artificial Intelligence and Their Applications in Sustainability
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore different types of artificial intelligence (AI) and their applications in promoting sustainability. AI technologies offer a range of capabilities that can contribute to environmental conservation, social responsibility, and sustainable development.
 

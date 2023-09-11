@@ -1,5 +1,4 @@
-Chapter: Case Studies on the Use of AI in Sustainability
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we present several case studies that highlight the application of AI in various sustainability domains. These real-world examples demonstrate how AI technology can contribute to enhancing environmental and social responsibility.
 

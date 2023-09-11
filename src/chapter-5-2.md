@@ -1,5 +1,4 @@
-Chapter: Healthcare Access and Equity
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the role of AI in enhancing healthcare access and equity, and its impact on environmental and social responsibility. AI has the potential to revolutionize healthcare systems, ensuring that everyone has equal opportunities to receive quality healthcare services while addressing sustainability challenges.
 

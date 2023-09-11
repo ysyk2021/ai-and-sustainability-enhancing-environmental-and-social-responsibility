@@ -1,5 +1,4 @@
-Chapter: Human Rights and Social Justice
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the intersection of AI, sustainability, and human rights, highlighting the role of AI in promoting social justice and upholding fundamental human rights. As AI technologies continue to advance, there is a growing need to ensure that their deployment aligns with ethical principles, fairness, and inclusivity.
 

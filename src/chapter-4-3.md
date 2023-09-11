@@ -1,5 +1,4 @@
-Chapter: Climate Change Mitigation and Adaptation
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the role of AI in climate change mitigation and adaptation. Climate change poses one of the most significant challenges to environmental sustainability, and AI technologies offer innovative solutions to address this global crisis.
 

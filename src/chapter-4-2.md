@@ -1,5 +1,4 @@
-Chapter: Air and Water Quality Monitoring
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the role of AI in air and water quality monitoring. Maintaining clean and healthy air and water is essential for environmental sustainability and human well-being. AI technologies offer innovative solutions to monitor, analyze, and address air and water pollution challenges.
 

@@ -1,5 +1,4 @@
-Chapter: Renewable Energy Optimization
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the role of AI in optimizing renewable energy systems and its contribution to enhancing environmental and social responsibility. The integration of AI technologies can revolutionize the way we generate, distribute, and consume renewable energy, enabling us to achieve greater efficiency and sustainability.
 

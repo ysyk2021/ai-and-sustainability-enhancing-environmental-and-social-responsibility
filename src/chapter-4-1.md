@@ -1,5 +1,4 @@
-Chapter: Overview of AI Applications in Environmental Sustainability
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the various applications of AI in environmental sustainability. AI technologies offer immense potential to address complex environmental challenges, enabling organizations and governments to make informed decisions, optimize resource management, and drive sustainable practices.
 
